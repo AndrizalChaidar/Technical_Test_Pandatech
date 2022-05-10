@@ -10,7 +10,7 @@ List of available endpoints:
 
 Request:
 
--params: name (track or playlist name in English) (requeired)
+-params: name (track or playlist name in English) (required)
 
 _Response (200 - 0K)_
 
